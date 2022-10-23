@@ -1,0 +1,12 @@
+{
+  "name": "sirmemeticketbotwannabe",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/Korabi-dev/SirMemeTicketBotWannaBe.git",
+  "author": "Korab Arifi <69105206+Korabi-dev@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "mongoose": "^6.6.7"
+  }
+}
